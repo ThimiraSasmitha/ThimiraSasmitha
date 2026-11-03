@@ -10,20 +10,26 @@ I value practical engineering over hype: writing clean, reliable code, exploring
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python · C++ · Rust · TypeScript · SQL
+**Programming Languages**
 
-**Web Technologies:** HTML · CSS
+Python · C++ · Rust · TypeScript · SQL
 
-###  What I'm Interested In
+**AI, Machine Learning & Data Science**
+
+PyTorch · Scikit-learn · NumPy · Pandas · CUDA
+
+**Development & Notebook Environment**
+
+Jupyter Notebook · Git · GitHub · VS Code
+
+**Web Technologies**
+
+HTML · CSS
+
+### Areas of Interest
 
 - Machine Learning & Artificial Intelligence
 - Data Engineering & ETL Pipelines
 - Data Science & Analytics
 - Intelligent Automation
 - Software Engineering & Problem Solving
-
-### Currently
-
-Learning, experimenting, and building projects that bridge the gap between data, AI, and real-world applications.
-
----
