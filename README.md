@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey, I'm Sasmitha 👋
 
-<!--
-**ThimiraSasmitha/ThimiraSasmitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Data Engineering Undergraduate | Machine Learning | Data Engineering | Automation
 
-Here are some ideas to get you started:
+I'm an **AI and Data Engineering undergraduate** passionate about turning messy, real-world problems into practical solutions through machine learning, data engineering, and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests lie at the intersection of **data, intelligent systems, and software engineering** — building pipelines that transform raw data into meaningful insights, developing models that learn from data, and creating automation tools that make complex processes more efficient.
+
+I value practical engineering over hype: writing clean, reliable code, exploring new technologies, and building solutions that work beyond the prototype.
+
+### 🛠️ Tech Stack
+
+**Languages:** Python · C++ · Rust · TypeScript · SQL
+
+**Web Technologies:** HTML · CSS
+
+###  What I'm Interested In
+
+- Machine Learning & Artificial Intelligence
+- Data Engineering & ETL Pipelines
+- Data Science & Analytics
+- Intelligent Automation
+- Software Engineering & Problem Solving
+
+### Currently
+
+Learning, experimenting, and building projects that bridge the gap between data, AI, and real-world applications.
+
+---
