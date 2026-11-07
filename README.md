@@ -10,7 +10,7 @@ I value practical engineering over hype: writing clean, reliable code, exploring
 
 ### 🛠️ Tech Stack
 
-**Programming Languages**
+**Programming Languages & Web Technologies**
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,rust,cpp,go,ts,html,css)](https://skillicons.dev)
 
@@ -20,11 +20,7 @@ PyTorch · Scikit-learn · NumPy · Pandas · CUDA
 
 **Development & Notebook Environment**
 
-Jupyter Notebook · Git · GitHub · VS Code
-
-**Web Technologies**
-
-HTML · CSS
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm,git,github)](https://skillicons.dev)
 
 ### Areas of Interest
 
