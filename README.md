@@ -16,11 +16,11 @@ I value practical engineering over hype: writing clean, reliable code, exploring
 
 **AI, Machine Learning & Data Science**
 
-PyTorch · Scikit-learn · NumPy · Pandas · CUDA
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pytorch,scikitlearn,numpy,pandas,cuda,tensorflow,polars,seaborn,scipy,langchain,huggingface,ollama,matplotlib,fastapi&titles=true)
 
 **Development & Notebook Environment**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jupyter,vscode,idea,pycharm,rustrover,yew&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jupyter,vscode,idea,pycharm,rustrover,googlecolab&titles=true)
 
 ### Areas of Interest
 
