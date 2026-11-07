@@ -20,7 +20,7 @@ PyTorch · Scikit-learn · NumPy · Pandas · CUDA
 
 **Development & Notebook Environment**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm,git,github)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jupyter,vscode,idea,pycharm,rustrover,yew&titles=true)
 
 ### Areas of Interest
 
