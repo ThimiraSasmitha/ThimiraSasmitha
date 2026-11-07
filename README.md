@@ -32,3 +32,10 @@ I value practical engineering over hype: writing clean, reliable code, exploring
 ## Contribution Activity
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ThimiraSasmitha&background=0D1117&border=30363D&ring=58D5F5&fire=58D5F5&currStreakNum=58D5F5&sideNums=58D5F5&currStreakLabel=58D5F5&sideLabels=58D5F5&dates=FFFFFF)](https://git.io/streak-stats)
+
+
+<h2 align="center">🐟 My Git Koi</h2>
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My GitHub Koi" />
+</p>
