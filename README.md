@@ -21,11 +21,3 @@ I value practical engineering over hype: writing clean, reliable code, exploring
 **Development & Notebook Environment**
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jupyter,vscode,idea,pycharm,rustrover,googlecolab&titles=true)
-
-### Areas of Interest
-
-- Machine Learning & Artificial Intelligence
-- Data Engineering & ETL Pipelines
-- Data Science & Analytics
-- Intelligent Automation
-- Software Engineering & Problem Solving
