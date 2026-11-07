@@ -1,4 +1,4 @@
-<img width="425" height="45" alt="image" src="https://github.com/user-attachments/assets/1e0ed3f9-c3c8-40ee-8fc9-c6dee1167fbe" /># Hey, I'm Sasmitha 👋
+# Hey, I'm Sasmitha 👋
 
 ### AI & Data Engineering Undergraduate | Machine Learning | Data Engineering | Automation
 
