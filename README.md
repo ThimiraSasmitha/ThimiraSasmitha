@@ -13,6 +13,7 @@ I value practical engineering over hype: writing clean, reliable code, exploring
 **Programming Languages**
 
 Python · C++ · Rust · TypeScript · SQL · Golang · Java
+(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 **AI, Machine Learning & Data Science**
 
