@@ -21,3 +21,8 @@ I value practical engineering over hype: writing clean, reliable code, exploring
 **Development & Notebook Environment**
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jupyter,vscode,idea,pycharm,rustrover,googlecolab&titles=true)
+
+
+** Lets Connect**
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linkedin,&titles=true)(https://linkedin.com/in/sasmitha-rathnamalala/)
