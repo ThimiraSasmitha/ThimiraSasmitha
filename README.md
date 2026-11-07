@@ -12,7 +12,7 @@ I value practical engineering over hype: writing clean, reliable code, exploring
 
 **Programming Languages**
 
-Python · C++ · Rust · TypeScript · SQL . Golang
+Python · C++ · Rust · TypeScript · SQL · Golang
 
 **AI, Machine Learning & Data Science**
 
