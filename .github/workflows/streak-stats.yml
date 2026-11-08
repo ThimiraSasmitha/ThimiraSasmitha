@@ -27,13 +27,19 @@ jobs:
           options: user=${{ github.repository_owner }}&theme=hacker&timezone=Asia/Colombo
           path: profile/streak.svg
 
+      
       - name: Commit streak stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+          git fetch origin main
+
+          git checkout origin/main -- . ':!profile/streak.svg'
+          git checkout HEAD -- profile/streak.svg
+
           git add profile/streak.svg
           git commit -m "Update streak stats" || exit 0
 
-          git pull --rebase origin main
-          git push origin main
+          git push origin HEAD:main
+
