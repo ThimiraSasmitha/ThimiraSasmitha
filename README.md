@@ -31,4 +31,6 @@ I value practical engineering over hype: writing clean, reliable code, exploring
 
 ## Contribution Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ThimiraSasmitha&theme=hacker)](https://git.io/streak-stats)
+<p align="center">
+  <img src="./profile/streak.svg" alt="GitHub Streak Stats"/>
+</p>
