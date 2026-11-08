@@ -19,7 +19,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@v1
@@ -29,15 +32,26 @@ jobs:
 
       - name: Commit streak stats
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          mkdir -p /tmp/streak-output
+          cp profile/streak.svg /tmp/streak-output/streak.svg
 
           git fetch origin main
 
-          git checkout origin/main -- . ':!profile/streak.svg'
-          git checkout HEAD -- profile/streak.svg
+          git worktree add /tmp/streak-repo origin/main
+
+          cp /tmp/streak-output/streak.svg /tmp/streak-repo/profile/streak.svg
+
+          cd /tmp/streak-repo
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
           git add profile/streak.svg
-          git commit -m "Update streak stats" || exit 0
 
+          if git diff --cached --quiet; then
+            echo "Streak stats are already up to date."
+            exit 0
+          fi
+
+          git commit -m "Update streak stats"
           git push origin HEAD:main
