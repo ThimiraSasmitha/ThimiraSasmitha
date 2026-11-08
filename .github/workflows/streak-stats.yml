@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: "0 3 * * *"
 
+  push:
+    paths:
+      - ".github/workflows/streak-stats.yml"
+
   workflow_dispatch:
 
 concurrency:
@@ -27,7 +31,7 @@ jobs:
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@v1
         with:
-          options: user=${{ github.repository_owner }}&theme=hacker&timezone=Asia/Colombo
+          options: user=${{ github.repository_owner }}&theme=hacker&disable_animations=true&timezone=Asia/Colombo
           path: profile/streak.svg
 
       - name: Commit streak stats
@@ -36,7 +40,6 @@ jobs:
           cp profile/streak.svg /tmp/streak-output/streak.svg
 
           git fetch origin main
-
           git worktree add /tmp/streak-repo origin/main
 
           cp /tmp/streak-output/streak.svg /tmp/streak-repo/profile/streak.svg
