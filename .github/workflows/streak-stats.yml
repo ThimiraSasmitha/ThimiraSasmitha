@@ -4,15 +4,12 @@ name: Update GitHub Streak Stats
 on:
   schedule:
     - cron: "0 3 * * *"
-    concurrency:
-  group: streak-stats
-  cancel-in-progress: false
-
-  push:
-    paths:
-      - ".github/workflows/streak-stats.yml"
 
   workflow_dispatch:
+
+concurrency:
+  group: streak-stats
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -27,10 +24,9 @@ jobs:
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@v1
         with:
-          options: user=${{ github.repository_owner }}&theme=hacker&timezone=Asia/Colombo
+          options: user=${{ github.repository_owner }}&theme=dark&timezone=Asia/Colombo
           path: profile/streak.svg
 
-      
       - name: Commit streak stats
         run: |
           git config user.name "github-actions[bot]"
@@ -45,4 +41,3 @@ jobs:
           git commit -m "Update streak stats" || exit 0
 
           git push origin HEAD:main
-
