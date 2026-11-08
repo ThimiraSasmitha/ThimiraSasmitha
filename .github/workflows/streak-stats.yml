@@ -4,6 +4,9 @@ name: Update GitHub Streak Stats
 on:
   schedule:
     - cron: "0 3 * * *"
+    concurrency:
+  group: streak-stats
+  cancel-in-progress: false
 
   push:
     paths:
