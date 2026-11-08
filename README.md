@@ -28,8 +28,9 @@ I value practical engineering over hype: writing clean, reliable code, exploring
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true)](https://linkedin.com/in/sasmitha-rathnamalala/)
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=discord&titles=true)***aceyyiscool***
 
-
+<p align="center">
 ## Contribution Activity
+</p>
 
 <p align="center">
   <img src="./profile/streak.svg" alt="GitHub Streak Stats"/>
