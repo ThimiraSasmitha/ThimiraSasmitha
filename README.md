@@ -15,9 +15,11 @@ I value practical engineering over hype: writing clean, reliable code, exploring
 [![My Skills](https://skillicons.dev/icons?i=py,java,rust,cpp,go,ts,html,css)](https://skillicons.dev)
 
 **AI, Machine Learning & Data Science**
+
 Pytorch • Scikitlearn • Numpy • Pandas • Cuda • Tensorflow • Polars • Seaborn • Scipy • Langchain • Huggingface • Ollama • Matplotlib • Fastapi
 
 **Development & Notebook Environment**
+
 Jupyter • Vscode • Idea • Pycharm • Rustrover • Googlecolab
 
 <h3><strong>Contribution Activity</strong></h3>
