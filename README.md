@@ -20,8 +20,8 @@ Pytorch • Scikitlearn • Numpy • Pandas • Cuda • Tensorflow • Polars 
 **Development & Notebook Environment**
 Jupyter • Vscode • Idea • Pycharm • Rustrover • Googlecolab
 
-<h3 align="center"><strong>Contribution Activity</strong></h3>
+<h3><strong>Contribution Activity</strong></h3>
 
-<p align="center">
+<p>
   <img src="./profile/streak.svg" alt="GitHub Streak Stats"/>
 </p>
