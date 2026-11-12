@@ -15,18 +15,10 @@ I value practical engineering over hype: writing clean, reliable code, exploring
 [![My Skills](https://skillicons.dev/icons?i=py,java,rust,cpp,go,ts,html,css)](https://skillicons.dev)
 
 **AI, Machine Learning & Data Science**
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pytorch,scikitlearn,numpy,pandas,cuda,tensorflow,polars,seaborn,scipy,langchain,huggingface,ollama,matplotlib,fastapi&titles=true)
+Pytorch • Scikitlearn • Numpy • Pandas • Cuda • Tensorflow • Polars • Seaborn • Scipy • Langchain • Huggingface • Ollama • Matplotlib • Fastapi
 
 **Development & Notebook Environment**
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jupyter,vscode,idea,pycharm,rustrover,googlecolab&titles=true)
-
-
-**Lets Connect**
-
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true)](https://linkedin.com/in/sasmitha-rathnamalala/)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=discord&titles=true)***aceyyiscool***
+Jupyter • Vscode • Idea • Pycharm • Rustrover • Googlecolab
 
 <h3 align="center"><strong>Contribution Activity</strong></h3>
 
